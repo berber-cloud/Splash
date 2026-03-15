@@ -18,10 +18,10 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.exceptions import TelegramBadRequest
 
 # --- НАСТРОЙКИ ---
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-CHANNEL_ID = -1001234567890  # ID канала
-CHANNEL_LINK = "https://t.me/your_channel"  # Запасная ссылка (если не получится сгенерировать)
-MASTER_ID = 123456789  # ТВОЙ TELEGRAM ID (узнать у @userinfobot)
+BOT_TOKEN = "8777511144:AAGiit8sXEGfdZrTI0HFiIt8Vygho8YkegY"
+CHANNEL_ID = -1003858066322  # ID канала
+CHANNEL_LINK = "https://t.me/manik2850"  # Запасная ссылка (если не получится сгенерировать)
+MASTER_ID = 8247785943  # ТВОЙ TELEGRAM ID (узнать у @userinfobot)
 ADMIN_PASSWORD = "12345"
 
 # --- ФАЙЛ ДЛЯ ХРАНЕНИЯ ТИПА КАНАЛА ---
